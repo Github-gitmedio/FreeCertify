@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageProjectUrl>www.gitmedio.com</PackageProjectUrl>
+    <Copyright>Gitmedio</Copyright>
+    <Description>Descripción.
+
+Agradecimiento a:
+1.- https://letsencrypt.org/
+2.- https://github.com/pablopioli/certes
+</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Certes">
+      <HintPath>..\..\..\Downloads\certes-main\src\Certes\bin\Debug\net8.0\Certes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

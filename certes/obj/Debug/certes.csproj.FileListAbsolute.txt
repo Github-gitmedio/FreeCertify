@@ -1,0 +1,2 @@
+C:\Users\Chambi\Desktop\FreeCertify\certes\obj\Debug\certes.csproj.AssemblyReference.cache
+C:\Users\Chambi\Desktop\FreeCertify\certes\obj\Debug\certes.csproj.CoreCompileInputs.cache

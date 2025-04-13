@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\freecertify.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\freecertify.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|C:\\Users\\Chambi\\Desktop\\FreeCertify\\freecertify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|c:\\users\\chambi\\desktop\\freecertify\\freecertify\\freecertify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC7D84AF-738F-4FC8-96F8-6F8F2DFF8FB6}|FreeCertify\\FreeCertify.csproj|solutionrelative:freecertify\\freecertify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreeCertify",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\FreeCertify.csproj",
+              "RelativeDocumentMoniker": "FreeCertify\\FreeCertify.csproj",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\FreeCertify.csproj",
+              "RelativeToolTip": "FreeCertify\\FreeCertify.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T19:36:09.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form1.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FreeCertify\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:32:35.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutBox1.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\AboutBox1.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\AboutBox1.cs*",
+              "RelativeToolTip": "FreeCertify\\AboutBox1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:29:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutBox1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\AboutBox1.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\AboutBox1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FreeCertify\\AboutBox1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:29:18.888Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Program.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Program.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Program.cs",
+              "RelativeToolTip": "FreeCertify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:28:34.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.Designer.cs",
+              "RelativeToolTip": "FreeCertify\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:24:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form2.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.cs",
+              "RelativeToolTip": "FreeCertify\\Form2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:24:20.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form2.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FreeCertify\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:11:54.359Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.Designer.cs",
+              "RelativeToolTip": "FreeCertify\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:29:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.cs",
+              "RelativeDocumentMoniker": "FreeCertify\\Form1.cs",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\Form1.cs",
+              "RelativeToolTip": "FreeCertify\\Form1.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAIwIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:52:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FreeCertify.csproj",
+              "DocumentMoniker": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\FreeCertify.csproj",
+              "RelativeDocumentMoniker": "FreeCertify\\FreeCertify.csproj",
+              "ToolTip": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\FreeCertify.csproj",
+              "RelativeToolTip": "FreeCertify\\FreeCertify.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T19:52:17.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDcsVjtkGck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chambi\\Desktop\\FreeCertify\\FreeCertify\\FreeCertify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chambi\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
